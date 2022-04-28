@@ -8,4 +8,4 @@ b=c.filter(ele=>ele>12)
 console.log(b)
 d=b.sort()
 console.log(d)
-/*hkbhbh*/
+
